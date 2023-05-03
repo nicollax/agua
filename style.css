@@ -1,13 +1,53 @@
 body{
-background-color: ; }
-  background-color: purple;
-  color: white;
-  background-position::first-line
+  background-color: red
+}
+header{
+  background-color: #0F0F0E
 }
 
-cabeçalho-imagem {
+.titulo{font-size: 150px; color: #C7C7C7; text-align: left;;margin-top: -22%}
 
-  width: 20%;
-  
+h1{
+  font-family: inherit; text-align: center; color:white; ;
+}
+h2{
+font-family: inherit; text-align: left; color: black
+}
+h3{
+  font-family: inherit;text-align: left; color: black
+}
+p1{
+  font-family: inherit;text-align: left; color: black
+}
+
+h4{
+  font-family: inherit;text-align: left; color: black
+}
+h5{
+  font-family: inherit;text-align: left; color: white
+}
+
+ul {
+  top: 220px;
+font-size: 40px;
+}
+
+.logo{
+width: 19%;
+margin-left: 78%;
+}
+
+.contato{font-family: cursive; background-color: #A89203; color: #FFFFFF ; font-size: 30px; text-align: center;}
+
+iframe{
+  width: 50%;
+  margin-left: 25%;
+}
+
+.minhafoto{
+
+  width: 65%;
+  margin-left: 40%;
+  border-radius: 30%
 
 }
